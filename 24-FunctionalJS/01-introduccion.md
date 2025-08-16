@@ -1,8 +1,6 @@
-### 🧠 Tema Principal: Functional JavaScript
+# ¿Qué es Functional JavaScript?
 
-### 📌 ¿Qué es Functional JavaScript?
-
----
+### Objetivo
 
 Crear tu código utilizando funciones.
 
@@ -12,7 +10,7 @@ No se permite la modificación de datos.
 
 Tiene una sintaxis más de matemáticas.
 
-**Conceptos clave**
+### Conceptos clave
 
 - Inmutabilidad - Los datos no deben modificarse (utilizar const siempre)
 - Separar funciones de datos
